@@ -1,0 +1,7 @@
+/result
+/node_modules/
+.DS_Store
+npm-debug.log
+webpack-assets.json
+/www/
+/static/dist/
